@@ -1,0 +1,61 @@
+This file lists the potential information that can be gathered about a game.
+
+RESULTS SCREEN:
+* Position
+* KOs
+* EXP
+* Mode (Invictus/Non-Invictus)
+
+* Singles
+* Doubles
+* Triples
+* Tetrises
+* Total Lines
+
+* T-Spins
+* Mini T-Spins
+* T-Spin Singles
+* T-Spin Doubles
+* T-Spin Triples
+* Total T-Spins
+
+* Max Combo
+* Back-to-Backs
+* All Clears
+
+* Theme
+
+* KO positions (which players did you KO?)
+
+METADATA:
+
+* Time/Date (getting this directly assumes players log games immediately after completion)
+* Number of games (can only do this with logged games)
+
+
+TOTAl STATS:
+
+// Beyond initial account setup, I don't want the user to be able to change total stats. So I want to only include stats which can be derived from
+// per-game stats.
+
+// NOTE: these stats apply separately per mode - don't use the "All" figure, especially if you have the Big Block DLC!
+
+* Games Played
+* Highest Place
+* Wins
+* Most KOs
+* Total KOs
+* Singles
+* Doubles
+* Triples
+* Tetrises
+* Total Lines
+* Max Combo
+* T-Spins
+* Mini T-Spins
+* T-Spin Singles
+* T-Spin Doubles
+* T-Spin Triples
+* Total T-Spins
+* Back-to-Backs
+* All Clears
